@@ -5,7 +5,7 @@ An alternate rise landing page built with Next14, Shadcn, and Tailwind. Smooth s
 https://rise-landing-page.vercel.app/
 
 # ⛏️ Installation
-To follow along the tutorial. Change to the starter branch  after cloning the repo.
+Change to the starter branch  after cloning the repo.
 Then install the npm packages & run
 ```bash
 npm install && npm run dev
