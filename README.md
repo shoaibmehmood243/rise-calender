@@ -19,10 +19,6 @@ npm install && npm run dev
 - Tailwind
 - Lenis
 
-## 🔓 Benefits
-- Mobile Responsiveness
-- Learn all the stack in one video
-
 ## Author
 Built with love ❤️ by Shoaib https://shoaib-mehmood.vercel.app/
 
